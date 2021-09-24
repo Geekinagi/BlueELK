@@ -1,0 +1,14 @@
+The following scripts are all written for the Linux Command Line environment
+
+_GT is a script highlighting the greater and less than capabilites of bash scripts, with some variable inputs as well
+_Loop is a script working with a simple for loop through an array of different cities
+_PathCheck takes an input path for the variable PATH then appands the home path, if the path to a specified directory does not exist the script will create it. 
+_AndIf is a script employing multiple if then statements to check numerical inputs.  
+_BinarytoReadable an attempt at converting binary to readable text, doesn't always work. Though did for the use case it was employed for 
+_BinarytoDec.py though not a script it was used in the context with some of the scripts in this directory. It convery binary to decimal
+_CheckDir checks if a directory is present, not designed to take inputs currently 
+_Systemcheck runs a few system status related to memory usage and disk usage and saves a log file of each command 
+_Nslookup shows varying outputs using the nslookup command
+_StringEqual takes two inputs and indicates if the strings are equal to one another
+_SysInfo outputs useful system information that could be redirected to (>) to a text file if necessary 
+_UserCheck script to check values on the current user status
